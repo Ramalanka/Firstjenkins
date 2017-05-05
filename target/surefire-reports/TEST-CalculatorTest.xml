@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="CalculatorTest" time="0.017" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\AFRZAJNBDGS04"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_76\jre"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="LG_PATH" value="C:\Program Files\HP\LoadRunner\"/>
+    <property name="_COMPUTER_ComputerFunction" value="Workstation"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_76\jre\lib\endorsed"/>
+    <property name="ILLDIR" value="C:\Program Files\Common Files\Autodesk Shared\Materials\"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="SBICZA01"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.version" value="1.8.0_76-ea"/>
+    <property name="JOB_NAME" value="MavenJenkinsIntegration"/>
+    <property name="_COMPUTER_MACAddress" value="D8FC9329B611"/>
+    <property name="COMPUTERNAME" value="43601JNBITD114L"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="C727300"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 69 Stepping 1, GenuineIntel"/>
+    <property name="_COMPUTER_MainBoardProduct" value="0RYCC9"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\c727300\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/MavenJenkinsIntegration/10/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Africa/Harare"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-MavenJenkinsIntegration-10"/>
+    <property name="_COMPUTER_IPAddress" value="10.128.129.83"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="PATH" value="C:\Program Files\Java\jdk1.8.0_76/bin;C:\Program Files\Java\jdk1.8.0_76\bin;C:\Program Files\Skype\Phone\;C:\Windows\System32;C:\Program Files\Common Files\Autodesk Shared\;C:\AdvanceJava\apache-maven-3.5.0\bin;"/>
+    <property name="LOG_FILE" value="C:\Users\c724631\AppData\Local\Temp\\ihp_custom_batches.log"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\AdvanceJava\apache-maven-3.3.9 C:\Users\c727300\.jenkins\war\WEB-INF\lib\remoting-3.7.jar C:\Users\c727300\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar C:\Users\c727300\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar 56617"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="_COMPUTER_ComputerName" value="43601JNBITD114L"/>
+    <property name="JENKINS_SERVER_COOKIE" value="82a91d60860de7f5"/>
+    <property name="_COMPUTER_SerialNumber" value="C5P6L12"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="ILMDIR" value="C:\Program Files\Common Files\Autodesk Shared\Materials\"/>
+    <property name="_COMPUTER_IMDSExtractionDate" value="2017-04-24 16:19"/>
+    <property name="_COMPUTER_BuildDate" value="2015-02-09 04:32"/>
+    <property name="java.io.tmpdir" value="C:\Users\c727300\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\c727300\AppData\Roaming"/>
+    <property name="DEFLOGDIR" value="C:\ProgramData\McAfee\Endpoint Security\Logs"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/MavenJenkinsIntegration/10/"/>
+    <property name="M2_HOME" value="C:\AdvanceJava\apache-maven-3.3.9"/>
+    <property name="=C:" value="C:\AdvanceJava"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#10"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="82a91d60860de7f5"/>
+    <property name="MAVEN_HOME" value="C:\AdvanceJava\apache-maven-3.3.9"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="_COMPUTER_OSVersion" value="6.1.7601"/>
+    <property name="maven3.interceptor.common" value="C:\Users\c727300\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="ANALYSIS_PATH" value="C:\Program Files\HP\LoadRunner\"/>
+    <property name="HOMEPATH" value="\Users\c727300"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="BUILD_NUMBER" value="10"/>
+    <property name="maven3.interceptor" value="C:\Users\c727300\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_76\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\AdvanceJava\apache-maven-3.3.9/bin;C:\Program Files\Java\jdk1.8.0_76/bin;C:\Program Files\Java\jdk1.8.0_76/bin;C:\Program Files\Java\jdk1.8.0_76\bin;C:\Program Files\Skype\Phone\;C:\Windows\System32;C:\Program Files\Common Files\Autodesk Shared\;C:\AdvanceJava\apache-maven-3.5.0\bin;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="_COMPUTER_IMDSConfigModuleVersion" value="2.2.5"/>
+    <property name="POM_GROUPID" value="com.wipro"/>
+    <property name="POM_ARTIFACTID" value="FirstmavenDemo"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/MavenJenkinsIntegration/"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/MavenJenkinsIntegration/10/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\c727300\.jenkins"/>
+    <property name="BUILD_ID" value="10"/>
+    <property name="TEMP" value="C:\Users\c727300\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_76\jre\bin"/>
+    <property name="VUGEN_PATH" value="C:\Program Files\HP\LoadRunner\"/>
+    <property name="M2" value="C:\AdvanceJava\apache-maven-3.5.0\bin"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="4501"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\c727300\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\AdvanceJava\apache-maven-3.3.9/bin"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_76"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="USERPROFILE" value="C:\Users\c727300"/>
+    <property name="_SITE_ProductionSite" value="Yes"/>
+    <property name="_REGION_EPORegion" value="JNB"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/MavenJenkinsIntegration/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_76\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="_REGION_RegionName" value="Johannesburg"/>
+    <property name="user.home" value="C:\Users\c727300"/>
+    <property name="USERNAME" value="C727300"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERDNSDOMAIN" value="ZA.SBICDIRECTORY.COM"/>
+    <property name="user.dir" value="C:\Users\c727300\workspacenew\FirstmavenDemo"/>
+    <property name="_COMPUTER_ComputerModel" value="Latitude E7440"/>
+    <property name="TMP" value="C:\Users\c727300\AppData\Local\Temp"/>
+    <property name="UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="_COMPUTER_SubnetMask" value="255.255.254.0"/>
+    <property name="_SITE_CentreNumber" value="0000000"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="_SITE_SiteName" value="52 Anderson Street"/>
+    <property name="java.vm.version" value="25.76-b03"/>
+    <property name="java.class.path" value="C:\Users\c727300\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.8.1.jar;C:\AdvanceJava\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\AdvanceJava\apache-maven-3.3.9/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="x86"/>
+    <property name="WORKSPACE" value="C:\Users\c727300\workspacenew\FirstmavenDemo"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="_COMPUTER_BuildType" value="CGS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="LR_PATH" value="C:\Program Files\HP\LoadRunner\"/>
+    <property name="_COMPUTER_Domain" value="za.sbicdirectory.com"/>
+    <property name="java.runtime.version" value="1.8.0_76-ea-b03"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_76\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_76\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_76\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_76\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_76\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_76\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_76\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_76\jre\classes"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="ILBDIR" value="C:\Program Files\Common Files\Autodesk Shared\Materials\"/>
+    <property name="_COMPUTER_BuildVersion" value="2.5"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_76/bin"/>
+    <property name="user.country" value="ZA"/>
+    <property name="_REGION_VAFRegion" value="JNB"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\AdvanceJava\apache-maven-3.3.9"/>
+    <property name="CM2014DIR" value="C:\Program Files\Common Files\Autodesk Shared\Materials\"/>
+    <property name="JOB_BASE_NAME" value="MavenJenkinsIntegration"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="FirstmavenDemo"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+  </properties>
+  <testcase classname="CalculatorTest" name="testAdd" time="0.017"/>
+</testsuite>
